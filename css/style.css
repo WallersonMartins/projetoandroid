@@ -52,6 +52,7 @@ nav > a{
     color: #B8EED0;
     text-decoration: none;
     padding-left: 10px;
+
 }
 
 nav > a:hover{
@@ -59,6 +60,7 @@ nav > a:hover{
     color: #B8EED0;
     padding: 5px;
     border-radius: 3px;
+    transition-duration: 0.3s;
 }
 
 main{
@@ -190,7 +192,7 @@ aside > p > a{
 
 
 footer{
-    width: 98%;
+   
     text-align: center;
     background-color: #042914;
     color: white;
