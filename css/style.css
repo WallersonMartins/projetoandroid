@@ -191,13 +191,12 @@ aside > p > a{
 
 
 
-footer{
-   
-    text-align: center;
+
+
+footer {
     background-color: #042914;
     color: white;
-    font-weight: bold;
-    padding-right: 30px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
 }
